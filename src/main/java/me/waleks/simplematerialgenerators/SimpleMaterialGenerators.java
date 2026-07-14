@@ -1,9 +1,6 @@
 package me.waleks.simplematerialgenerators;
 
-import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
-import me.mrCookieSlime.Slimefun.cscorelib2.config.Config;
-import me.mrCookieSlime.Slimefun.cscorelib2.updater.GitHubBuildsUpdater;
-import me.mrCookieSlime.Slimefun.cscorelib2.updater.Updater;
+import io.github.thebusybiscuit.slimefun5.api.SlimefunAddon;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import javax.annotation.Nonnull;
@@ -16,13 +13,6 @@ public class SimpleMaterialGenerators extends JavaPlugin implements SlimefunAddo
     @Override
     public void onEnable() {
         setInstance(this);
-
-        Config cfg = new Config(this);
-
-        if (cfg.getBoolean("options.auto-update") && getDescription().getVersion().startsWith("DEV - ")) {
-            Updater updater = new GitHubBuildsUpdater(this, getFile(), "waleks647/SMG/master");
-            updater.start();
-        }
 
         SMGItemSetup.setup(this);
     }
