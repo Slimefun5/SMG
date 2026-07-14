@@ -7,7 +7,9 @@ import io.github.thebusybiscuit.slimefun5.api.recipes.RecipeType;
 import io.github.thebusybiscuit.slimefun5.libraries.dough.blocks.BlockPosition;
 import io.github.thebusybiscuit.slimefun5.libraries.paperlib.PaperLib;
 import me.mrCookieSlime.CSCoreLibPlugin.Configuration.Config;
+import io.github.thebusybiscuit.slimefun5.libraries.xseries.XMaterial;
 import me.mrCookieSlime.Slimefun.Objects.handlers.BlockTicker;
+import me.waleks.simplematerialgenerators.utils.MaterialCompat;
 import org.bukkit.Material;
 import org.bukkit.block.Block;
 import org.bukkit.block.BlockFace;
@@ -52,7 +54,7 @@ public class MaterialGenerator extends SlimefunItem {
 
     public void tick(@Nonnull Block b) {
         Block targetBlock = b.getRelative(BlockFace.UP);
-        if (targetBlock.getType() == Material.CHEST) {
+        if (targetBlock.getType() == MaterialCompat.safe(XMaterial.CHEST)) {
             BlockState state = PaperLib.getBlockState(targetBlock, false).getState();
             if (state instanceof InventoryHolder) {
                 Inventory inv = ((InventoryHolder) state).getInventory();
