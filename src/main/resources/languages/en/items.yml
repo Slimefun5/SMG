@@ -1,0 +1,137 @@
+# English item lore for SimpleMaterialGenerators. Keyed by Slimefun item id.
+# Composed by LoreComposer in order: Type -> Description -> Stats -> Usage.
+
+SMG_GENERATOR_MULTIBLOCK:
+  name: "&9Generator Multiblock"
+  type:
+    - "&7&oMultiblock"
+  description:
+    - "&7Build any of this addon's"
+    - "&7generators like this."
+  usage:
+    - "&8⇨ &7They only output to a chest"
+    - "&8⇨ &7placed directly above them."
+
+SMG_GENERATOR_COBBLESTONE:
+  name: "&7Cobblestone Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates cobblestone."
+  stats:
+    - "&8⇨ &7Produces every &e4 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
+
+SMG_GENERATOR_STONE_BROKEN:
+  name: "&7Stone Generator &8(Broken)"
+  type:
+    - "&7&oGenerator Component"
+  description:
+    - "&8A damaged generator."
+  usage:
+    - "&8⇨ &7Needs to be repaired before use."
+
+SMG_GENERATOR_STONE:
+  name: "&7Stone Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates stone."
+  stats:
+    - "&8⇨ &7Produces every &e8 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
+
+SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  name: "&7Smooth Stone Generator &8(Broken)"
+  type:
+    - "&7&oGenerator Component"
+  description:
+    - "&8A damaged generator."
+  usage:
+    - "&8⇨ &7Needs to be repaired before use."
+
+SMG_GENERATOR_SMOOTH_STONE:
+  name: "&7Smooth Stone Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates smooth stone."
+  stats:
+    - "&8⇨ &7Produces every &e12 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
+
+SMG_GENERATOR_GRAVEL_BROKEN:
+  name: "&7Gravel Generator &8(Broken)"
+  type:
+    - "&7&oGenerator Component"
+  description:
+    - "&8A damaged generator."
+  usage:
+    - "&8⇨ &7Needs to be repaired before use."
+
+SMG_GENERATOR_GRAVEL:
+  name: "&7Gravel Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates gravel."
+  stats:
+    - "&8⇨ &7Produces every &e6 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
+
+SMG_GENERATOR_SAND_BROKEN:
+  name: "&eSand Generator &8(Broken)"
+  type:
+    - "&7&oGenerator Component"
+  description:
+    - "&8A damaged generator."
+  usage:
+    - "&8⇨ &7Needs to be repaired before use."
+
+SMG_GENERATOR_SAND:
+  name: "&eSand Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates sand."
+  stats:
+    - "&8⇨ &7Produces every &e8 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
+
+SMG_GENERATOR_GLASS:
+  name: "&fGlass Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates glass."
+  stats:
+    - "&8⇨ &7Produces every &e12 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
+
+SMG_GENERATOR_NETHERRACK:
+  name: "&cNetherrack Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates netherrack."
+  stats:
+    - "&8⇨ &7Produces every &e6 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
+
+SMG_GENERATOR_SOUL_SAND:
+  name: "&8Soul Sand Generator"
+  type:
+    - "&7&oGenerator"
+  description:
+    - "&7Passively generates soul sand."
+  stats:
+    - "&8⇨ &7Produces every &e8 ticks"
+  usage:
+    - "&8⇨ &7Place a chest directly above it."
