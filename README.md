@@ -42,7 +42,7 @@ plugins {
 }
 
 dependencies {
-    "githubCompileOnly"("Slimefun5:SMG:v1.0.1")
+    "githubCompileOnly"("Slimefun5:SMG:v1.0.2")
 }
 ```
 
