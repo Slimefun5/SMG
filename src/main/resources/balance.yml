@@ -1,0 +1,25 @@
+# Per-item balance scores (0-100) for SimpleMaterialGenerators, relative to vanilla Minecraft.
+# Read by Slimefun's BalanceService (overrides the auto heuristic). Bands:
+#   0-10 Trivial | 11-25 Standard | 26-40 Advanced | 41-69 Powerful | 70-100 Overpowered
+#   (vanilla anchors: iron gear ~15, netherite ~30, beacon ~35, end crystal ~70, mace ~85)
+# Scores below are derived from actual stats read from src/main/java (generation rate in
+# ticks, output material value, recipe cost) - see SMGItems/SMGItemSetup for specifics.
+scores:
+  # --- Multiblock guide item (non-functional dummy) ---
+  SMG_GENERATOR_MULTIBLOCK: 5   # placeholder/guide item, produces nothing on its own
+
+  # --- Working generators (passive, output only to a chest placed directly above) ---
+  SMG_GENERATOR_COBBLESTONE: 14 # rate 4 ticks, cheapest tier, generates trivial cobblestone
+  SMG_GENERATOR_STONE: 18       # rate 8 ticks, solder+stone recipe, generates stone
+  SMG_GENERATOR_GRAVEL: 18      # rate 6 ticks, billon+stone-brick recipe, generates gravel
+  SMG_GENERATOR_NETHERRACK: 20  # rate 6 ticks, needs 3x stone gens + lava + composter
+  SMG_GENERATOR_SMOOTH_STONE: 20 # rate 12 ticks, smeltery steel recipe, generates smooth stone
+  SMG_GENERATOR_SAND: 20        # rate 8 ticks, duralumin+sandstone recipe, generates sand
+  SMG_GENERATOR_GLASS: 24       # rate 12 ticks, smeltery bronze/gold/brass recipe, generates glass
+  SMG_GENERATOR_SOUL_SAND: 24   # rate 8 ticks, steel + mob-drop recipe, generates soul sand
+
+  # --- Broken generator components (non-functional intermediates, must be repaired) ---
+  SMG_GENERATOR_STONE_BROKEN: 12        # smeltery intermediate toward the Stone Generator
+  SMG_GENERATOR_GRAVEL_BROKEN: 13       # grindstone intermediate toward the Gravel Generator
+  SMG_GENERATOR_SMOOTH_STONE_BROKEN: 14 # smeltery intermediate toward the Smooth Stone Generator
+  SMG_GENERATOR_SAND_BROKEN: 14         # ore-crusher intermediate toward the Sand Generator
