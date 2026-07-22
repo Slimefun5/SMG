@@ -1,65 +1,20 @@
-# SMG
+# Info
+SimpleMaterialGenerators (SMG for short) is a Slimefun4 addon that helps aliviate some of the grind by providing simple generators that create simple materials.<br>
 
-[![Build Status](https://Slimefun5.github.io/builds/Slimefun5/SMG/stable/badge.svg)](https://Slimefun5.github.io/builds/Slimefun5/SMG/stable)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Slimefun5/SMG/total)
-[![GitHub Followers](https://img.shields.io/github/followers/Slimefun5?style=social)](https://github.com/Slimefun5)
-[![GitHub Stars](https://img.shields.io/github/stars/Slimefun5/SMG?style=social)](https://github.com/Slimefun5/SMG)
+## What it adds
+Currently it adds generators for:<br>
+Cobblestone, Stone, Smooth stone, Gravel, Sand, Glass, Netherrack and Soul sand<br>
 
-A Slimefun addon that adds simple material generators.
+## Using the generators
+The generators by themselves will do nothing - at least not until they have a chest (directly) above them.<br>
+(There's a multiblock example in the SMG category).<br>
+Then they will start producing items.<br>
+The `Rate` of their production is measured in Slimefun `Ticks`.<br>
 
-## Requirements
-- Java 25
-- Paper 1.16.* - 26.1.*
-- [Slimefun 5](https://github.com/Slimefun5/Slimefun5)
+## Downloads
+You can find the prebuilt plugin in:<br>
+https://thebusybiscuit.github.io/builds/waleks647/SMG/master<br>
 
-SimpleMaterialGenerators adds simple, upgradeable material generators to Slimefun — passive blocks that slowly produce cobblestone, sand, and other basic resources.
-
-## :floppy_disk: Installation
-
-| SMG | Slimefun5 | Minecraft |
-|---|---|---|
-| UNOFFICIAL | 5.2.0+ | 1.8.x – 26.x |
-
-Download the latest release and place it in your server's `plugins/` folder. Slimefun5 must be installed first.
-
-## :beetle: Bug Reports
-
-Please report bugs via the [GitHub Issues](https://github.com/Slimefun5/SMG/issues) page.
-
-## :open_book: Contributing
-
-Contributions are welcome! Please read the [Slimefun5 Contributing Guidelines](https://github.com/Slimefun5/Slimefun5/blob/master/CONTRIBUTING.md) before submitting a pull request.
-
-## Developer API
-
-You can easily depend on this project using [github-gradle](https://github.com/intisy/github-gradle).
-
-In your `build.gradle.kts`:
-
-```kotlin
-plugins {
-    id("io.github.intisy.github-gradle") version "1.8.2.1"
-}
-
-dependencies {
-    "githubCompileOnly"("Slimefun5:SMG:v1.0.2")
-}
-```
-
-## Wiki
-
-[Read more on the Slimefun Wiki...](https://github.com/Slimefun5/Wiki/wiki/SMG)
-
-## Discord
-
-You can find Slimefun's community on Discord! Click the badge below to join the server for suggestions/questions or other discussions about this plugin.
-
-<p align="center">
-  <a href="https://discord.gg/CbBYZBEWdR">
-    <img src="https://discordapp.com/api/guilds/738626600539160576/widget.png?style=banner2" alt="Discord"/>
-  </a>
-</p>
-
-## License
-
-This project is open-source and licensed under the MIT License.
+## Plans
+There are plans to add more generators in the future (once I figure out how to do it)<br>
+Namely generators for Dirt, Water, Lava, Obsidian and dusts.<br>

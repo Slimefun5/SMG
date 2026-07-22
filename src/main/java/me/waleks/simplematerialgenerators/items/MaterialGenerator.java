@@ -33,6 +33,7 @@ public class MaterialGenerator extends SlimefunItem {
     @ParametersAreNonnullByDefault
     public MaterialGenerator(ItemGroup category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(category, item, recipeType, recipe);
+        setGuideType("machines");
     }
 
     @Override
