@@ -22,6 +22,7 @@ public class GeneratorMultiblock extends SimpleSlimefunItem<ItemUseHandler> impl
                 null, new ItemStack(MaterialCompat.safe(XMaterial.CHEST)), null,
                 null, CustomItemStack.create(MaterialCompat.safe(XMaterial.BEDROCK), "Any SMG generator"), null
         });
+        setGuideType("machines");
     }
 
     @Nonnull

@@ -16,6 +16,7 @@ public class BrokenGenerator extends SimpleSlimefunItem<ItemUseHandler> implemen
 
     public BrokenGenerator(ItemGroup category, SlimefunItemStack item, RecipeType recipeType, ItemStack[] recipe) {
         super(category, item, recipeType, recipe);
+        setGuideType("resources");
     }
 
     @Nonnull
