@@ -17,7 +17,6 @@ public class SimpleMaterialGenerators extends JavaPlugin implements SlimefunAddo
 
         SMGItemSetup.setup(this);
 
-        // Contribute this addon's per-language item translations (languages/<lang>/items.yml).
         Slimefun.getItemTranslationService().registerTranslations(this);
     }
 

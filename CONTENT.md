@@ -1,10 +1,10 @@
-SimpleMaterialGenerators adds simple, upgradeable material generators to Slimefun — passive blocks that slowly produce cobblestone, sand, and other basic resources.
+SimpleMaterialGenerators adds simple, upgradeable material generators to Slimefun, passive blocks that slowly produce cobblestone, sand, and other basic resources.
 
 ## :floppy_disk: Installation
 
 | SMG | Slimefun5 | Minecraft |
 |---|---|---|
-| UNOFFICIAL | 5.2.0+ | 1.8.x – 26.x |
+| UNOFFICIAL | 5.2.0+ | 1.8.x to 26.x |
 
 Download the latest release and place it in your server's `plugins/` folder. Slimefun5 must be installed first.
 
