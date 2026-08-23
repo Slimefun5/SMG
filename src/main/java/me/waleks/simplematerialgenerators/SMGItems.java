@@ -82,4 +82,9 @@ public final class SMGItems {
         "SMG_GENERATOR_SOUL_SAND",
         MaterialCompat.safe(XMaterial.SOUL_SAND)
     );
+
+    /** Places this addon's items in the shared guide categories (see ItemTypeClassifier). */
+    static {
+        SMG_ITEM_CATEGORY.setCategory("machines");
+    }
 }
