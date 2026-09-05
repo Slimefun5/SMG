@@ -9,10 +9,10 @@ SMG_GENERATOR_GRAVEL:
   - '&7&oГенератор'
 SMG_GENERATOR_GRAVEL_BROKEN:
   type:
-  - '&7&oКомпонент генератора'
+  - '&7&oКомпонента на генератор'
 SMG_GENERATOR_MULTIBLOCK:
   type:
-  - '&7&oМультиблок'
+  - '&7&oМултиблок'
 SMG_GENERATOR_NETHERRACK:
   type:
   - '&7&oГенератор'
@@ -21,13 +21,13 @@ SMG_GENERATOR_SAND:
   - '&7&oГенератор'
 SMG_GENERATOR_SAND_BROKEN:
   type:
-  - '&7&oКомпонент генератора'
+  - '&7&oКомпонента на генератор'
 SMG_GENERATOR_SMOOTH_STONE:
   type:
   - '&7&oГенератор'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
   type:
-  - '&7&oКомпонент генератора'
+  - '&7&oКомпонента на генератор'
 SMG_GENERATOR_SOUL_SAND:
   type:
   - '&7&oГенератор'
@@ -36,4 +36,4 @@ SMG_GENERATOR_STONE:
   - '&7&oГенератор'
 SMG_GENERATOR_STONE_BROKEN:
   type:
-  - '&7&oКомпонент генератора'
+  - '&7&oКомпонента на генератор'

@@ -12,7 +12,7 @@ SMG_GENERATOR_GRAVEL_BROKEN:
   - '&7&oКомпонент генератора'
 SMG_GENERATOR_MULTIBLOCK:
   type:
-  - '&7&oМультиблок'
+  - '&7&oСпоруда'
 SMG_GENERATOR_NETHERRACK:
   type:
   - '&7&oГенератор'

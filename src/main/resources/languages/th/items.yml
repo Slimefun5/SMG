@@ -1,0 +1,39 @@
+SMG_GENERATOR_COBBLESTONE:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_GLASS:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_GRAVEL:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_GRAVEL_BROKEN:
+  type:
+  - '&7&oส่วนประกอบเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_MULTIBLOCK:
+  type:
+  - '&7&oMultiblock'
+SMG_GENERATOR_NETHERRACK:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_SAND:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_SAND_BROKEN:
+  type:
+  - '&7&oส่วนประกอบเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_SMOOTH_STONE:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  type:
+  - '&7&oส่วนประกอบเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_SOUL_SAND:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_STONE:
+  type:
+  - '&7&oเครื่องกำเนิดไฟฟ้า'
+SMG_GENERATOR_STONE_BROKEN:
+  type:
+  - '&7&oส่วนประกอบเครื่องกำเนิดไฟฟ้า'

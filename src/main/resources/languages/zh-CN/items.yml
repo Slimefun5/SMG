@@ -1,2 +1,39 @@
-# Simplified Chinese item translations for SimpleMaterialGenerators. Keyed by Slimefun item id.
-# name = display name with '&' colour codes. Missing items fall back to English.
+SMG_GENERATOR_COBBLESTONE:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_GLASS:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_GRAVEL:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_GRAVEL_BROKEN:
+  type:
+  - '&7&o发电机组件'
+SMG_GENERATOR_MULTIBLOCK:
+  type:
+  - '&7&o多方块'
+SMG_GENERATOR_NETHERRACK:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_SAND:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_SAND_BROKEN:
+  type:
+  - '&7&o发电机组件'
+SMG_GENERATOR_SMOOTH_STONE:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  type:
+  - '&7&o发电机组件'
+SMG_GENERATOR_SOUL_SAND:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_STONE:
+  type:
+  - '&7&o发电机'
+SMG_GENERATOR_STONE_BROKEN:
+  type:
+  - '&7&o发电机组件'
