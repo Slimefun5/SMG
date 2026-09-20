@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Pasīvi ģenerē bruģakmeni.'
+  name: '&7Bruģakmens ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e4 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Pasīvi ģenerē stiklu.'
+  name: '&fStikla ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e12 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Pasīvi ģenerē granti.'
+  name: '&7Grants ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e6 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Bojāts ģenerators.'
+  name: '&7Grants ģenerators &8(Salauzts)'
   type:
   - '&7&oĢeneratora sastāvdaļa'
+  usage:
+  - '&8⇨ &7Pirms lietošanas tas jāsalabo.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Uzbūvē jebkuru šī papildinājuma'
+  - '&7ģeneratoru šādā veidā.'
+  name: '&9Ģeneratora multibloks'
   type:
   - '&7&oDaudzbloks'
+  usage:
+  - '&8⇨ &7Tie izvada tikai lādē,'
+  - '&8⇨ &7kas novietota tieši virs tiem.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Pasīvi ģenerē netherakmeni.'
+  name: '&cNetherakmens ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e6 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Pasīvi ģenerē smiltis.'
+  name: '&eSmilšu ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e8 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Bojāts ģenerators.'
+  name: '&eSmilšu ģenerators &8(Salauzts)'
   type:
   - '&7&oĢeneratora sastāvdaļa'
+  usage:
+  - '&8⇨ &7Pirms lietošanas tas jāsalabo.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Pasīvi ģenerē gludo akmeni.'
+  name: '&7Gludā akmens ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e12 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Bojāts ģenerators.'
+  name: '&7Gludā akmens ģenerators &8(Salauzts)'
   type:
   - '&7&oĢeneratora sastāvdaļa'
+  usage:
+  - '&8⇨ &7Pirms lietošanas tas jāsalabo.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Pasīvi ģenerē dvēseļu smiltis.'
+  name: '&8Dvēseļu smilšu ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e8 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Pasīvi ģenerē akmeni.'
+  name: '&7Akmens ģenerators'
+  stats:
+  - '&8⇨ &7Ražo ik pēc &e8 tikiem'
   type:
   - '&7&oĢenerators'
+  usage:
+  - '&8⇨ &7Novieto lādi tieši virs tā.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Bojāts ģenerators.'
+  name: '&7Akmens ģenerators &8(Salauzts)'
   type:
   - '&7&oĢeneratora sastāvdaļa'
+  usage:
+  - '&8⇨ &7Pirms lietošanas tas jāsalabo.'
