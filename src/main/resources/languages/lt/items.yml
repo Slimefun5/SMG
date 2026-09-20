@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Pasyviai generuoja grindinio akmenį.'
+  name: '&7Grindinio akmens generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e4 tiktelėjimus'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Pasyviai generuoja stiklą.'
+  name: '&fStiklo generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e12 tiktelėjimų'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Pasyviai generuoja žvyrą.'
+  name: '&7Žvyro generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e6 tiktelėjimus'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Sugadintas generatorius.'
+  name: '&7Žvyro generatorius &8(sugedęs)'
   type:
   - '&7&oGeneratoriaus komponentas'
+  usage:
+  - '&8⇨ &7Prieš naudojant reikia pataisyti.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Statykite bet kurį šio priedo'
+  - '&7generatorių šitaip.'
+  name: '&9Generatoriaus daugiablokis'
   type:
   - '&7&oDaugiablokis'
+  usage:
+  - '&8⇨ &7Jie išveda tik į skrynią,'
+  - '&8⇨ &7padėtą tiesiai virš jų.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Pasyviai generuoja Nether uolieną.'
+  name: '&cNether uolienos generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e6 tiktelėjimus'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Pasyviai generuoja smėlį.'
+  name: '&eSmėlio generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e8 tiktelėjimus'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Sugadintas generatorius.'
+  name: '&eSmėlio generatorius &8(sugedęs)'
   type:
   - '&7&oGeneratoriaus komponentas'
+  usage:
+  - '&8⇨ &7Prieš naudojant reikia pataisyti.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Pasyviai generuoja lygų akmenį.'
+  name: '&7Lygaus akmens generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e12 tiktelėjimų'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Sugadintas generatorius.'
+  name: '&7Lygaus akmens generatorius &8(sugedęs)'
   type:
   - '&7&oGeneratoriaus komponentas'
+  usage:
+  - '&8⇨ &7Prieš naudojant reikia pataisyti.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Pasyviai generuoja sielų smėlį.'
+  name: '&8Sielų smėlio generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e8 tiktelėjimus'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Pasyviai generuoja akmenį.'
+  name: '&7Akmens generatorius'
+  stats:
+  - '&8⇨ &7Gamina kas &e8 tiktelėjimus'
   type:
   - '&7&oGeneratorius'
+  usage:
+  - '&8⇨ &7Padėkite skrynią tiesiai virš jo.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Sugadintas generatorius.'
+  name: '&7Akmens generatorius &8(sugedęs)'
   type:
   - '&7&oGeneratoriaus komponentas'
+  usage:
+  - '&8⇨ &7Prieš naudojant reikia pataisyti.'
