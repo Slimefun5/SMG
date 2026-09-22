@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Menjana batu bulat secara pasif.'
+  name: '&7Penjana Batu Bulat'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e4 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Menjana kaca secara pasif.'
+  name: '&fPenjana Kaca'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e12 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Menjana kerikil secara pasif.'
+  name: '&7Penjana Kerikil'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e6 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Penjana yang telah rosak.'
+  name: '&7Penjana Kerikil &8(Rosak)'
   type:
   - '&7&oKomponen Penjana'
+  usage:
+  - '&8⇨ &7Perlu dibaiki sebelum digunakan.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Bina mana-mana penjana bagi'
+  - '&7tambahan ini dengan cara ini.'
+  name: '&9Penjana Multiblok'
   type:
   - '&7&oMultiblok'
+  usage:
+  - '&8⇨ &7Ia hanya mengeluarkan ke dalam peti'
+  - '&8⇨ &7yang diletakkan terus di atasnya.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Menjana netherrack secara pasif.'
+  name: '&cPenjana Netherrack'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e6 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Menjana pasir secara pasif.'
+  name: '&ePenjana Pasir'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e8 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Penjana yang telah rosak.'
+  name: '&ePenjana Pasir &8(Rosak)'
   type:
   - '&7&oKomponen Penjana'
+  usage:
+  - '&8⇨ &7Perlu dibaiki sebelum digunakan.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Menjana batu licin secara pasif.'
+  name: '&7Penjana Batu Licin'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e12 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Penjana yang telah rosak.'
+  name: '&7Penjana Batu Licin &8(Rosak)'
   type:
   - '&7&oKomponen Penjana'
+  usage:
+  - '&8⇨ &7Perlu dibaiki sebelum digunakan.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Menjana pasir jiwa secara pasif.'
+  name: '&8Penjana Pasir Jiwa'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e8 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Menjana batu secara pasif.'
+  name: '&7Penjana Batu'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e8 tik'
   type:
   - '&7&oPenjana'
+  usage:
+  - '&8⇨ &7Letak sebuah peti terus di atasnya.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Penjana yang telah rosak.'
+  name: '&7Penjana Batu &8(Rosak)'
   type:
   - '&7&oKomponen Penjana'
+  usage:
+  - '&8⇨ &7Perlu dibaiki sebelum digunakan.'
