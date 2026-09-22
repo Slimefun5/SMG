@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7被動產生圓石。'
+  name: '&7圓石產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e4 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7被動產生玻璃。'
+  name: '&f玻璃產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e12 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7被動產生礫石。'
+  name: '&7礫石產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e6 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8一台損壞的產生器。'
+  name: '&7礫石產生器 &8(損壞)'
   type:
   - '&7&o發電機元件'
+  usage:
+  - '&8⇨ &7使用前需要先修復。'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7以此方式建造本擴充的'
+  - '&7任何一種產生器。'
+  name: '&9產生器多方塊結構'
   type:
   - '&7&o多重方塊'
+  usage:
+  - '&8⇨ &7它們只會輸出到'
+  - '&8⇨ &7正上方放置的箱子。'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7被動產生地獄石。'
+  name: '&c地獄石產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e6 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7被動產生沙子。'
+  name: '&e沙子產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e8 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8一台損壞的產生器。'
+  name: '&e沙子產生器 &8(損壞)'
   type:
   - '&7&o發電機元件'
+  usage:
+  - '&8⇨ &7使用前需要先修復。'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7被動產生平滑石頭。'
+  name: '&7平滑石頭產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e12 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8一台損壞的產生器。'
+  name: '&7平滑石頭產生器 &8(損壞)'
   type:
   - '&7&o發電機元件'
+  usage:
+  - '&8⇨ &7使用前需要先修復。'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7被動產生靈魂沙。'
+  name: '&8靈魂沙產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e8 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7被動產生石頭。'
+  name: '&7石頭產生器'
+  stats:
+  - '&8⇨ &7產出間隔 &e8 刻'
   type:
   - '&7&o發電機'
+  usage:
+  - '&8⇨ &7在它正上方放置一個箱子。'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8一台損壞的產生器。'
+  name: '&7石頭產生器 &8(損壞)'
   type:
   - '&7&o發電機元件'
+  usage:
+  - '&8⇨ &7使用前需要先修復。'
