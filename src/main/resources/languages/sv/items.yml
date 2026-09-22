@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Genererar passivt kullersten.'
+  name: '&7Kullerstensgenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e4 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Genererar passivt glas.'
+  name: '&fGlasgenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e12 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Genererar passivt grus.'
+  name: '&7Grusgenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e6 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8En skadad generator.'
+  name: '&7Grusgenerator &8(Trasig)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Måste repareras före användning.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Bygg vilken som helst av detta tilläggs'
+  - '&7generatorer så här.'
+  name: '&9Generatormultiblock'
   type:
   - '&7&oMultiblock'
+  usage:
+  - '&8⇨ &7De matar bara ut till en kista'
+  - '&8⇨ &7som placerats direkt ovanför dem.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Genererar passivt netherrack.'
+  name: '&cNetherrackgenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e6 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Genererar passivt sand.'
+  name: '&eSandgenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e8 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8En skadad generator.'
+  name: '&eSandgenerator &8(Trasig)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Måste repareras före användning.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Genererar passivt slät sten.'
+  name: '&7Slätstensgenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e12 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8En skadad generator.'
+  name: '&7Slätstensgenerator &8(Trasig)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Måste repareras före användning.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Genererar passivt själasand.'
+  name: '&8Själasandsgenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e8 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Genererar passivt sten.'
+  name: '&7Stengenerator'
+  stats:
+  - '&8⇨ &7Producerar var &e8 tick'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placera en kista direkt ovanför den.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8En skadad generator.'
+  name: '&7Stengenerator &8(Trasig)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Måste repareras före användning.'
