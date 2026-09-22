@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Secara pasif menghasilkan batu bulat.'
+  name: '&7Generator Batu Bulat'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e4 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Secara pasif menghasilkan kaca.'
+  name: '&fGenerator Kaca'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e12 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Secara pasif menghasilkan kerikil.'
+  name: '&7Generator Kerikil'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e6 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Generator yang rusak.'
+  name: '&7Generator Kerikil &8(Rusak)'
   type:
   - '&7&oKomponen Generator'
+  usage:
+  - '&8⇨ &7Perlu diperbaiki sebelum digunakan.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Bangun generator apa pun dari'
+  - '&7pengaya ini seperti ini.'
+  name: '&9Generator Multiblok'
   type:
   - '&7&oMultiblock'
+  usage:
+  - '&8⇨ &7Mereka hanya mengeluarkan ke peti'
+  - '&8⇨ &7yang ditempatkan tepat di atasnya.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Secara pasif menghasilkan netherrack.'
+  name: '&cGenerator Netherrack'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e6 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Secara pasif menghasilkan pasir.'
+  name: '&eGenerator Pasir'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e8 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Generator yang rusak.'
+  name: '&eGenerator Pasir &8(Rusak)'
   type:
   - '&7&oKomponen Generator'
+  usage:
+  - '&8⇨ &7Perlu diperbaiki sebelum digunakan.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Secara pasif menghasilkan batu halus.'
+  name: '&7Generator Batu Halus'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e12 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Generator yang rusak.'
+  name: '&7Generator Batu Halus &8(Rusak)'
   type:
   - '&7&oKomponen Generator'
+  usage:
+  - '&8⇨ &7Perlu diperbaiki sebelum digunakan.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Secara pasif menghasilkan pasir jiwa.'
+  name: '&8Generator Pasir Jiwa'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e8 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Secara pasif menghasilkan batu.'
+  name: '&7Generator Batu'
+  stats:
+  - '&8⇨ &7Menghasilkan setiap &e8 tik'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Letakkan peti tepat di atasnya.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Generator yang rusak.'
+  name: '&7Generator Batu &8(Rusak)'
   type:
   - '&7&oKomponen Generator'
+  usage:
+  - '&8⇨ &7Perlu diperbaiki sebelum digunakan.'
