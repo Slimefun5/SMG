@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Genererer passivt brosten.'
+  name: '&7Brostensgenerator'
+  stats:
+  - '&8⇨ &7Producerer hver &e4 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Genererer passivt glas.'
+  name: '&fGlasgenerator'
+  stats:
+  - '&8⇨ &7Producerer hver &e12 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Genererer passivt grus.'
+  name: '&7Grusgenerator'
+  stats:
+  - '&8⇨ &7Producerer hver &e6 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8En beskadiget generator.'
+  name: '&7Grusgenerator &8(Ødelagt)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Skal repareres før brug.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Byg alle denne udvidelses'
+  - '&7generatorer på denne måde.'
+  name: '&9Generatormultiblok'
   type:
   - '&7&oMultiblok'
+  usage:
+  - '&8⇨ &7De leverer kun til en kiste'
+  - '&8⇨ &7placeret direkte over dem.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Genererer passivt netherrack.'
+  name: '&cNetherrack-generator'
+  stats:
+  - '&8⇨ &7Producerer hver &e6 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Genererer passivt sand.'
+  name: '&eSandgenerator'
+  stats:
+  - '&8⇨ &7Producerer hver &e8 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8En beskadiget generator.'
+  name: '&eSandgenerator &8(Ødelagt)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Skal repareres før brug.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Genererer passivt glat sten.'
+  name: '&7Glatstensgenerator'
+  stats:
+  - '&8⇨ &7Producerer hver &e12 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8En beskadiget generator.'
+  name: '&7Glatstensgenerator &8(Ødelagt)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Skal repareres før brug.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Genererer passivt sjælesand.'
+  name: '&8Sjælesandsgenerator'
+  stats:
+  - '&8⇨ &7Producerer hver &e8 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Genererer passivt sten.'
+  name: '&7Stengenerator'
+  stats:
+  - '&8⇨ &7Producerer hver &e8 ticks'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Placer en kiste direkte over den.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8En beskadiget generator.'
+  name: '&7Stengenerator &8(Ødelagt)'
   type:
   - '&7&oGeneratorkomponent'
+  usage:
+  - '&8⇨ &7Skal repareres før brug.'
