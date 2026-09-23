@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Genera passivamente pietrisco.'
+  name: '&7Generatore di Pietrisco'
+  stats:
+  - '&8⇨ &7Produce ogni &e4 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Genera passivamente vetro.'
+  name: '&fGeneratore di Vetro'
+  stats:
+  - '&8⇨ &7Produce ogni &e12 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Genera passivamente ghiaia.'
+  name: '&7Generatore di Ghiaia'
+  stats:
+  - '&8⇨ &7Produce ogni &e6 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Un generatore danneggiato.'
+  name: '&7Generatore di Ghiaia &8(Rotto)'
   type:
   - '&7&oComponente del generatore'
+  usage:
+  - '&8⇨ &7Necessita di riparazione prima dell''uso.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Costruisci così uno qualsiasi dei'
+  - '&7generatori di questo addon.'
+  name: '&9Generatore Multiblocco'
   type:
   - '&7&oMultiblocco'
+  usage:
+  - '&8⇨ &7Producono solo in un baule'
+  - '&8⇨ &7posizionato direttamente sopra.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Genera passivamente netherrack.'
+  name: '&cGeneratore di Netherrack'
+  stats:
+  - '&8⇨ &7Produce ogni &e6 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Genera passivamente sabbia.'
+  name: '&eGeneratore di Sabbia'
+  stats:
+  - '&8⇨ &7Produce ogni &e8 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Un generatore danneggiato.'
+  name: '&eGeneratore di Sabbia &8(Rotto)'
   type:
   - '&7&oComponente del generatore'
+  usage:
+  - '&8⇨ &7Necessita di riparazione prima dell''uso.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Genera passivamente pietra liscia.'
+  name: '&7Generatore di Pietra Liscia'
+  stats:
+  - '&8⇨ &7Produce ogni &e12 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Un generatore danneggiato.'
+  name: '&7Generatore di Pietra Liscia &8(Rotto)'
   type:
   - '&7&oComponente del generatore'
+  usage:
+  - '&8⇨ &7Necessita di riparazione prima dell''uso.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Genera passivamente sabbia delle anime.'
+  name: '&8Generatore di Sabbia delle Anime'
+  stats:
+  - '&8⇨ &7Produce ogni &e8 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Genera passivamente pietra.'
+  name: '&7Generatore di Pietra'
+  stats:
+  - '&8⇨ &7Produce ogni &e8 tick'
   type:
   - '&7&oGeneratore'
+  usage:
+  - '&8⇨ &7Posiziona un baule direttamente sopra.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Un generatore danneggiato.'
+  name: '&7Generatore di Pietra &8(Rotto)'
   type:
   - '&7&oComponente del generatore'
+  usage:
+  - '&8⇨ &7Necessita di riparazione prima dell''uso.'
