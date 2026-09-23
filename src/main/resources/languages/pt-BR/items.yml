@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Gera passivamente pedregulho.'
+  name: '&7Gerador de Pedregulho'
+  stats:
+  - '&8⇨ &7Produz a cada &e4 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Gera passivamente vidro.'
+  name: '&fGerador de Vidro'
+  stats:
+  - '&8⇨ &7Produz a cada &e12 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Gera passivamente cascalho.'
+  name: '&7Gerador de Cascalho'
+  stats:
+  - '&8⇨ &7Produz a cada &e6 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Um gerador danificado.'
+  name: '&7Gerador de Cascalho &8(Quebrado)'
   type:
   - '&7&oComponente de gerador'
+  usage:
+  - '&8⇨ &7Precisa ser reparado antes do uso.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Construa qualquer um dos geradores'
+  - '&7deste addon assim.'
+  name: '&9Multibloco de Gerador'
   type:
   - '&7&oMultibloco'
+  usage:
+  - '&8⇨ &7Eles só enviam para um baú'
+  - '&8⇨ &7colocado diretamente acima deles.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Gera passivamente netherrack.'
+  name: '&cGerador de Netherrack'
+  stats:
+  - '&8⇨ &7Produz a cada &e6 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Gera passivamente areia.'
+  name: '&eGerador de Areia'
+  stats:
+  - '&8⇨ &7Produz a cada &e8 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Um gerador danificado.'
+  name: '&eGerador de Areia &8(Quebrado)'
   type:
   - '&7&oComponente de gerador'
+  usage:
+  - '&8⇨ &7Precisa ser reparado antes do uso.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Gera passivamente pedra lisa.'
+  name: '&7Gerador de Pedra Lisa'
+  stats:
+  - '&8⇨ &7Produz a cada &e12 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Um gerador danificado.'
+  name: '&7Gerador de Pedra Lisa &8(Quebrado)'
   type:
   - '&7&oComponente de gerador'
+  usage:
+  - '&8⇨ &7Precisa ser reparado antes do uso.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Gera passivamente areia das almas.'
+  name: '&8Gerador de Areia das Almas'
+  stats:
+  - '&8⇨ &7Produz a cada &e8 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Gera passivamente pedra.'
+  name: '&7Gerador de Pedra'
+  stats:
+  - '&8⇨ &7Produz a cada &e8 ticks'
   type:
   - '&7&oGerador'
+  usage:
+  - '&8⇨ &7Coloque um baú diretamente acima dele.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Um gerador danificado.'
+  name: '&7Gerador de Pedra &8(Quebrado)'
   type:
   - '&7&oComponente de gerador'
+  usage:
+  - '&8⇨ &7Precisa ser reparado antes do uso.'
