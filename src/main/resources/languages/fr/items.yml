@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Génère passivement de la pierre taillée.'
+  name: '&7Générateur de pierre taillée'
+  stats:
+  - '&8⇨ &7Produit tous les &e4 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Génère passivement du verre.'
+  name: '&fGénérateur de verre'
+  stats:
+  - '&8⇨ &7Produit tous les &e12 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Génère passivement du gravier.'
+  name: '&7Générateur de gravier'
+  stats:
+  - '&8⇨ &7Produit tous les &e6 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Un générateur endommagé.'
+  name: '&7Générateur de gravier &8(Cassé)'
   type:
   - '&7&oComposant de générateur'
+  usage:
+  - '&8⇨ &7Doit être réparé avant utilisation.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Construisez ainsi n''importe lequel des'
+  - '&7générateurs de cet addon.'
+  name: '&9Multibloc de générateur'
   type:
   - '&7&oMultibloc'
+  usage:
+  - '&8⇨ &7Ils ne produisent que vers un coffre'
+  - '&8⇨ &7placé directement au-dessus d''eux.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Génère passivement de la roche du Nether.'
+  name: '&cGénérateur de roche du Nether'
+  stats:
+  - '&8⇨ &7Produit tous les &e6 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Génère passivement du sable.'
+  name: '&eGénérateur de sable'
+  stats:
+  - '&8⇨ &7Produit tous les &e8 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Un générateur endommagé.'
+  name: '&eGénérateur de sable &8(Cassé)'
   type:
   - '&7&oComposant de générateur'
+  usage:
+  - '&8⇨ &7Doit être réparé avant utilisation.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Génère passivement de la pierre lisse.'
+  name: '&7Générateur de pierre lisse'
+  stats:
+  - '&8⇨ &7Produit tous les &e12 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Un générateur endommagé.'
+  name: '&7Générateur de pierre lisse &8(Cassé)'
   type:
   - '&7&oComposant de générateur'
+  usage:
+  - '&8⇨ &7Doit être réparé avant utilisation.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Génère passivement du sable des âmes.'
+  name: '&8Générateur de sable des âmes'
+  stats:
+  - '&8⇨ &7Produit tous les &e8 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Génère passivement de la pierre.'
+  name: '&7Générateur de pierre'
+  stats:
+  - '&8⇨ &7Produit tous les &e8 ticks'
   type:
   - '&7&oGénérateur'
+  usage:
+  - '&8⇨ &7Placez un coffre directement au-dessus.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Un générateur endommagé.'
+  name: '&7Générateur de pierre &8(Cassé)'
   type:
   - '&7&oComposant de générateur'
+  usage:
+  - '&8⇨ &7Doit être réparé avant utilisation.'
