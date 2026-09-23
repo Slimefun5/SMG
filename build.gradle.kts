@@ -7,4 +7,4 @@ plugins {
 group = "me.waleks"
 description = "SimpleMaterialGenerators is a Slimefun addon that adds simple material generators."
 
-apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/stable/slimefun-addon.gradle")
+apply(from = "https://raw.githubusercontent.com/Slimefun5/gradle/main/slimefun-addon.gradle")
