@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7被动生成圆石。'
+  name: '&7圆石生成器'
+  stats:
+  - '&8⇨ &7每隔 &e4 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7被动生成玻璃。'
+  name: '&f玻璃生成器'
+  stats:
+  - '&8⇨ &7每隔 &e12 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7被动生成砂砾。'
+  name: '&7砂砾生成器'
+  stats:
+  - '&8⇨ &7每隔 &e6 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8一台受损的生成器。'
+  name: '&7砂砾生成器 &8(已损坏)'
   type:
   - '&7&o发电机组件'
+  usage:
+  - '&8⇨ &7使用前需要修复。'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7按这种方式建造本扩展中'
+  - '&7的任意生成器。'
+  name: '&9生成器多方块结构'
   type:
   - '&7&o多方块'
+  usage:
+  - '&8⇨ &7它们只会输出到'
+  - '&8⇨ &7正上方放置的箱子。'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7被动生成下界岩。'
+  name: '&c下界岩生成器'
+  stats:
+  - '&8⇨ &7每隔 &e6 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7被动生成沙子。'
+  name: '&e沙子生成器'
+  stats:
+  - '&8⇨ &7每隔 &e8 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8一台受损的生成器。'
+  name: '&e沙子生成器 &8(已损坏)'
   type:
   - '&7&o发电机组件'
+  usage:
+  - '&8⇨ &7使用前需要修复。'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7被动生成平滑石头。'
+  name: '&7平滑石头生成器'
+  stats:
+  - '&8⇨ &7每隔 &e12 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8一台受损的生成器。'
+  name: '&7平滑石头生成器 &8(已损坏)'
   type:
   - '&7&o发电机组件'
+  usage:
+  - '&8⇨ &7使用前需要修复。'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7被动生成灵魂沙。'
+  name: '&8灵魂沙生成器'
+  stats:
+  - '&8⇨ &7每隔 &e8 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7被动生成石头。'
+  name: '&7石头生成器'
+  stats:
+  - '&8⇨ &7每隔 &e8 刻产出'
   type:
   - '&7&o发电机'
+  usage:
+  - '&8⇨ &7在其正上方放置一个箱子。'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8一台受损的生成器。'
+  name: '&7石头生成器 &8(已损坏)'
   type:
   - '&7&o发电机组件'
+  usage:
+  - '&8⇨ &7使用前需要修复。'
