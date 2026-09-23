@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Genera roca pasivamente.'
+  name: '&7Generador de Roca'
+  stats:
+  - '&8⇨ &7Produce cada &e4 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Genera vidrio pasivamente.'
+  name: '&fGenerador de Vidrio'
+  stats:
+  - '&8⇨ &7Produce cada &e12 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Genera grava pasivamente.'
+  name: '&7Generador de Grava'
+  stats:
+  - '&8⇨ &7Produce cada &e6 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Un generador dañado.'
+  name: '&7Generador de Grava &8(Roto)'
   type:
   - '&7&oComponente de generador'
+  usage:
+  - '&8⇨ &7Necesita repararse antes de usarse.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Construye cualquiera de los generadores'
+  - '&7de este addon de esta forma.'
+  name: '&9Generador Multibloque'
   type:
   - '&7&oMultibloque'
+  usage:
+  - '&8⇨ &7Solo expulsan a un cofre'
+  - '&8⇨ &7colocado directamente encima.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Genera netherrack pasivamente.'
+  name: '&cGenerador de Netherrack'
+  stats:
+  - '&8⇨ &7Produce cada &e6 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Genera arena pasivamente.'
+  name: '&eGenerador de Arena'
+  stats:
+  - '&8⇨ &7Produce cada &e8 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Un generador dañado.'
+  name: '&eGenerador de Arena &8(Roto)'
   type:
   - '&7&oComponente de generador'
+  usage:
+  - '&8⇨ &7Necesita repararse antes de usarse.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Genera piedra lisa pasivamente.'
+  name: '&7Generador de Piedra Lisa'
+  stats:
+  - '&8⇨ &7Produce cada &e12 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Un generador dañado.'
+  name: '&7Generador de Piedra Lisa &8(Roto)'
   type:
   - '&7&oComponente de generador'
+  usage:
+  - '&8⇨ &7Necesita repararse antes de usarse.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Genera arena de almas pasivamente.'
+  name: '&8Generador de Arena de Almas'
+  stats:
+  - '&8⇨ &7Produce cada &e8 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Genera piedra pasivamente.'
+  name: '&7Generador de Piedra'
+  stats:
+  - '&8⇨ &7Produce cada &e8 ticks'
   type:
   - '&7&oGenerador'
+  usage:
+  - '&8⇨ &7Coloca un cofre directamente encima.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Un generador dañado.'
+  name: '&7Generador de Piedra &8(Roto)'
   type:
   - '&7&oComponente de generador'
+  usage:
+  - '&8⇨ &7Necesita repararse antes de usarse.'
