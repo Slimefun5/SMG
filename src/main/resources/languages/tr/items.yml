@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Pasif olarak kaldırım taşı üretir.'
+  name: '&7Kaldırım Taşı Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e4 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Pasif olarak cam üretir.'
+  name: '&fCam Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e12 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Pasif olarak çakıl üretir.'
+  name: '&7Çakıl Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e6 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Hasarlı bir jeneratör.'
+  name: '&7Çakıl Jeneratörü &8(Bozuk)'
   type:
   - '&7&oJeneratör Bileşeni'
+  usage:
+  - '&8⇨ &7Kullanmadan önce onarılmalı.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Bu eklentinin jeneratörlerinden'
+  - '&7herhangi birini böyle inşa et.'
+  name: '&9Çok Bloklu Jeneratör'
   type:
   - '&7&oYapı'
+  usage:
+  - '&8⇨ &7Yalnızca doğrudan üstlerine'
+  - '&8⇨ &7yerleştirilen bir sandığa çıkış verirler.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Pasif olarak nether taşı üretir.'
+  name: '&cNether Taşı Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e6 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Pasif olarak kum üretir.'
+  name: '&eKum Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e8 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Hasarlı bir jeneratör.'
+  name: '&eKum Jeneratörü &8(Bozuk)'
   type:
   - '&7&oJeneratör Bileşeni'
+  usage:
+  - '&8⇨ &7Kullanmadan önce onarılmalı.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Pasif olarak düz taş üretir.'
+  name: '&7Düz Taş Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e12 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Hasarlı bir jeneratör.'
+  name: '&7Düz Taş Jeneratörü &8(Bozuk)'
   type:
   - '&7&oJeneratör Bileşeni'
+  usage:
+  - '&8⇨ &7Kullanmadan önce onarılmalı.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Pasif olarak ruh kumu üretir.'
+  name: '&8Ruh Kumu Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e8 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Pasif olarak taş üretir.'
+  name: '&7Taş Jeneratörü'
+  stats:
+  - '&8⇨ &7Üretim: her &e8 tik'
   type:
   - '&7&oJeneratör'
+  usage:
+  - '&8⇨ &7Doğrudan üstüne bir sandık yerleştir.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Hasarlı bir jeneratör.'
+  name: '&7Taş Jeneratörü &8(Bozuk)'
   type:
   - '&7&oJeneratör Bileşeni'
+  usage:
+  - '&8⇨ &7Kullanmadan önce onarılmalı.'
