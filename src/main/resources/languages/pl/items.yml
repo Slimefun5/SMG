@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Pasywnie generuje bruk.'
+  name: '&7Generator bruku'
+  stats:
+  - '&8⇨ &7Produkuje co &e4 ticki'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Pasywnie generuje szkło.'
+  name: '&fGenerator szkła'
+  stats:
+  - '&8⇨ &7Produkuje co &e12 ticków'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Pasywnie generuje żwir.'
+  name: '&7Generator żwiru'
+  stats:
+  - '&8⇨ &7Produkuje co &e6 ticków'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Uszkodzony generator.'
+  name: '&7Generator żwiru &8(Zepsuty)'
   type:
   - '&7&oKomponent generatora'
+  usage:
+  - '&8⇨ &7Wymaga naprawy przed użyciem.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Zbuduj w ten sposób dowolny'
+  - '&7z generatorów tego dodatku.'
+  name: '&9Generator Multiblok'
   type:
   - '&7&oMultiblok'
+  usage:
+  - '&8⇨ &7Wyrzucają tylko do skrzyni'
+  - '&8⇨ &7umieszczonej bezpośrednio nad nimi.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Pasywnie generuje netherrack.'
+  name: '&cGenerator netherraku'
+  stats:
+  - '&8⇨ &7Produkuje co &e6 ticków'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Pasywnie generuje piasek.'
+  name: '&eGenerator piasku'
+  stats:
+  - '&8⇨ &7Produkuje co &e8 ticków'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Uszkodzony generator.'
+  name: '&eGenerator piasku &8(Zepsuty)'
   type:
   - '&7&oKomponent generatora'
+  usage:
+  - '&8⇨ &7Wymaga naprawy przed użyciem.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Pasywnie generuje gładki kamień.'
+  name: '&7Generator gładkiego kamienia'
+  stats:
+  - '&8⇨ &7Produkuje co &e12 ticków'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Uszkodzony generator.'
+  name: '&7Generator gładkiego kamienia &8(Zepsuty)'
   type:
   - '&7&oKomponent generatora'
+  usage:
+  - '&8⇨ &7Wymaga naprawy przed użyciem.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Pasywnie generuje piasek dusz.'
+  name: '&8Generator piasku dusz'
+  stats:
+  - '&8⇨ &7Produkuje co &e8 ticków'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Pasywnie generuje kamień.'
+  name: '&7Generator kamienia'
+  stats:
+  - '&8⇨ &7Produkuje co &e8 ticków'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Umieść skrzynię bezpośrednio nad nim.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Uszkodzony generator.'
+  name: '&7Generator kamienia &8(Zepsuty)'
   type:
   - '&7&oKomponent generatora'
+  usage:
+  - '&8⇨ &7Wymaga naprawy przed użyciem.'
