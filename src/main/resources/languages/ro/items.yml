@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Generează pasiv piatră spartă.'
+  name: '&7Generator de Piatră spartă'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e4 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Generează pasiv sticlă.'
+  name: '&fGenerator de Sticlă'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e12 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Generează pasiv pietriș.'
+  name: '&7Generator de Pietriș'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e6 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Un generator deteriorat.'
+  name: '&7Generator de Pietriș &8(Defect)'
   type:
   - '&7&oComponentă de generator'
+  usage:
+  - '&8⇨ &7Trebuie reparat înainte de utilizare.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Construiește oricare dintre generatoarele'
+  - '&7acestui addon în acest fel.'
+  name: '&9Generator Multibloc'
   type:
   - '&7&oMultibloc'
+  usage:
+  - '&8⇨ &7Produc doar într-un cufăr'
+  - '&8⇨ &7plasat direct deasupra lor.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Generează pasiv netherrack.'
+  name: '&cGenerator de Netherrack'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e6 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Generează pasiv nisip.'
+  name: '&eGenerator de Nisip'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e8 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Un generator deteriorat.'
+  name: '&eGenerator de Nisip &8(Defect)'
   type:
   - '&7&oComponentă de generator'
+  usage:
+  - '&8⇨ &7Trebuie reparat înainte de utilizare.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Generează pasiv piatră netedă.'
+  name: '&7Generator de Piatră netedă'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e12 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Un generator deteriorat.'
+  name: '&7Generator de Piatră netedă &8(Defect)'
   type:
   - '&7&oComponentă de generator'
+  usage:
+  - '&8⇨ &7Trebuie reparat înainte de utilizare.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Generează pasiv nisip al sufletelor.'
+  name: '&8Generator de Nisip al Sufletelor'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e8 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Generează pasiv piatră.'
+  name: '&7Generator de Piatră'
+  stats:
+  - '&8⇨ &7Produce la fiecare &e8 tick-uri'
   type:
   - '&7&oGenerator'
+  usage:
+  - '&8⇨ &7Plasează un cufăr direct deasupra lui.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Un generator deteriorat.'
+  name: '&7Generator de Piatră &8(Defect)'
   type:
   - '&7&oComponentă de generator'
+  usage:
+  - '&8⇨ &7Trebuie reparat înainte de utilizare.'
