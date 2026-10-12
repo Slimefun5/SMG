@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7Passzívan kavicskövet termel.'
+  name: '&7Kavicskő Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e4 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7Passzívan üveget termel.'
+  name: '&fÜveg Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e12 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7Passzívan kavicsot termel.'
+  name: '&7Kavics Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e6 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8Egy megsérült termelő.'
+  name: '&7Kavics Termelő &8(Törött)'
   type:
   - '&7&oGenerátor alkatrész'
+  usage:
+  - '&8⇨ &7Használat előtt meg kell javítani.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7Építsd meg ennek a kiegészítőnek'
+  - '&7bármelyik termelőjét így.'
+  name: '&9Termelő Multiblokk'
   type:
   - '&7&oMultiblock'
+  usage:
+  - '&8⇨ &7Csak egy ládába adnak kimenetet,'
+  - '&8⇨ &7amely közvetlenül felettük van.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7Passzívan netherkövet termel.'
+  name: '&cNetherkő Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e6 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7Passzívan homokot termel.'
+  name: '&eHomok Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e8 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8Egy megsérült termelő.'
+  name: '&eHomok Termelő &8(Törött)'
   type:
   - '&7&oGenerátor alkatrész'
+  usage:
+  - '&8⇨ &7Használat előtt meg kell javítani.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7Passzívan sima követ termel.'
+  name: '&7Sima Kő Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e12 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8Egy megsérült termelő.'
+  name: '&7Sima Kő Termelő &8(Törött)'
   type:
   - '&7&oGenerátor alkatrész'
+  usage:
+  - '&8⇨ &7Használat előtt meg kell javítani.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7Passzívan lélekhomokot termel.'
+  name: '&8Lélekhomok Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e8 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7Passzívan követ termel.'
+  name: '&7Kő Termelő'
+  stats:
+  - '&8⇨ &7Termel minden &e8 tickben'
   type:
   - '&7&oGenerátor'
+  usage:
+  - '&8⇨ &7Helyezz egy ládát közvetlenül fölé.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8Egy megsérült termelő.'
+  name: '&7Kő Termelő &8(Törött)'
   type:
   - '&7&oGenerátor alkatrész'
+  usage:
+  - '&8⇨ &7Használat előtt meg kell javítani.'
