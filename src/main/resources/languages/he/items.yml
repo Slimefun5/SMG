@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7מייצר אבן מרוצפת באופן פסיבי.'
+  name: '&7מפיק אבן מרוצפת'
+  stats:
+  - '&8⇨ &7מפיק כל &e4 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7מייצר זכוכית באופן פסיבי.'
+  name: '&fמפיק זכוכית'
+  stats:
+  - '&8⇨ &7מפיק כל &e12 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7מייצר חצץ באופן פסיבי.'
+  name: '&7מפיק חצץ'
+  stats:
+  - '&8⇨ &7מפיק כל &e6 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8מפיק פגום.'
+  name: '&7מפיק חצץ &8(שבור)'
   type:
   - '&7&oרכיב גנרטור'
+  usage:
+  - '&8⇨ &7דורש תיקון לפני השימוש.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7בנה כל אחד מהמפיקים של'
+  - '&7התוסף הזה בצורה כזאת.'
+  name: '&9מפיק רב-בלוק'
   type:
   - '&7&oרב בלוק'
+  usage:
+  - '&8⇨ &7הם פולטים רק אל תיבה'
+  - '&8⇨ &7המוצבת ישירות מעליהם.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7מייצר סלע נתר באופן פסיבי.'
+  name: '&cמפיק סלע נתר'
+  stats:
+  - '&8⇨ &7מפיק כל &e6 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7מייצר חול באופן פסיבי.'
+  name: '&eמפיק חול'
+  stats:
+  - '&8⇨ &7מפיק כל &e8 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8מפיק פגום.'
+  name: '&eמפיק חול &8(שבור)'
   type:
   - '&7&oרכיב גנרטור'
+  usage:
+  - '&8⇨ &7דורש תיקון לפני השימוש.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7מייצר אבן חלקה באופן פסיבי.'
+  name: '&7מפיק אבן חלקה'
+  stats:
+  - '&8⇨ &7מפיק כל &e12 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8מפיק פגום.'
+  name: '&7מפיק אבן חלקה &8(שבור)'
   type:
   - '&7&oרכיב גנרטור'
+  usage:
+  - '&8⇨ &7דורש תיקון לפני השימוש.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7מייצר חול נשמות באופן פסיבי.'
+  name: '&8מפיק חול נשמות'
+  stats:
+  - '&8⇨ &7מפיק כל &e8 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7מייצר אבן באופן פסיבי.'
+  name: '&7מפיק אבן'
+  stats:
+  - '&8⇨ &7מפיק כל &e8 טיקים'
   type:
   - '&7&oגנרטור'
+  usage:
+  - '&8⇨ &7הצב תיבה ישירות מעליו.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8מפיק פגום.'
+  name: '&7מפיק אבן &8(שבור)'
   type:
   - '&7&oרכיב גנרטור'
+  usage:
+  - '&8⇨ &7דורש תיקון לפני השימוש.'
