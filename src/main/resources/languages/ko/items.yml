@@ -1,39 +1,122 @@
 SMG_GENERATOR_COBBLESTONE:
+  description:
+  - '&7수동적으로 조약돌을 생성합니다.'
+  name: '&7조약돌 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e4틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_GLASS:
+  description:
+  - '&7수동적으로 유리를 생성합니다.'
+  name: '&f유리 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e12틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_GRAVEL:
+  description:
+  - '&7수동적으로 자갈을 생성합니다.'
+  name: '&7자갈 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e6틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_GRAVEL_BROKEN:
+  description:
+  - '&8손상된 생성기입니다.'
+  name: '&7자갈 생성기 &8(고장)'
   type:
   - '&7&o발전기 부품'
+  usage:
+  - '&8⇨ &7사용하기 전에 수리해야 합니다.'
 SMG_GENERATOR_MULTIBLOCK:
+  description:
+  - '&7이 애드온의 생성기는 모두'
+  - '&7이렇게 건설합니다.'
+  name: '&9생성기 멀티블록'
   type:
   - '&7&o멀티블록'
+  usage:
+  - '&8⇨ &7바로 위에 설치된 상자로만'
+  - '&8⇨ &7결과물을 내보냅니다.'
 SMG_GENERATOR_NETHERRACK:
+  description:
+  - '&7수동적으로 네더랙을 생성합니다.'
+  name: '&c네더랙 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e6틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_SAND:
+  description:
+  - '&7수동적으로 모래를 생성합니다.'
+  name: '&e모래 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e8틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_SAND_BROKEN:
+  description:
+  - '&8손상된 생성기입니다.'
+  name: '&e모래 생성기 &8(고장)'
   type:
   - '&7&o발전기 부품'
+  usage:
+  - '&8⇨ &7사용하기 전에 수리해야 합니다.'
 SMG_GENERATOR_SMOOTH_STONE:
+  description:
+  - '&7수동적으로 매끄러운 돌을 생성합니다.'
+  name: '&7매끄러운 돌 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e12틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_SMOOTH_STONE_BROKEN:
+  description:
+  - '&8손상된 생성기입니다.'
+  name: '&7매끄러운 돌 생성기 &8(고장)'
   type:
   - '&7&o발전기 부품'
+  usage:
+  - '&8⇨ &7사용하기 전에 수리해야 합니다.'
 SMG_GENERATOR_SOUL_SAND:
+  description:
+  - '&7수동적으로 영혼 모래를 생성합니다.'
+  name: '&8영혼 모래 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e8틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_STONE:
+  description:
+  - '&7수동적으로 돌을 생성합니다.'
+  name: '&7돌 생성기'
+  stats:
+  - '&8⇨ &7생산 주기: &e8틱'
   type:
   - '&7&o발전기'
+  usage:
+  - '&8⇨ &7바로 위에 상자를 설치하세요.'
 SMG_GENERATOR_STONE_BROKEN:
+  description:
+  - '&8손상된 생성기입니다.'
+  name: '&7돌 생성기 &8(고장)'
   type:
   - '&7&o발전기 부품'
+  usage:
+  - '&8⇨ &7사용하기 전에 수리해야 합니다.'
