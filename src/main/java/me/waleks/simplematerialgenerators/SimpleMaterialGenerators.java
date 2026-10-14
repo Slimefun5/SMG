@@ -18,6 +18,7 @@ public class SimpleMaterialGenerators extends JavaPlugin implements SlimefunAddo
         SMGItemSetup.setup(this);
 
         Slimefun.getItemTranslationService().registerTranslations(this);
+        Slimefun.getLocalization().registerItemGroupTranslations(this);
     }
 
     @Override
