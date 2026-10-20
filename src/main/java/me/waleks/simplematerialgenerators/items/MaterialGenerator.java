@@ -65,7 +65,7 @@ public class MaterialGenerator extends SlimefunItem {
 
                     if (progress >= this.rate) {
                         progress = 0;
-                        inv.addItem(this.item);
+                        inv.addItem(this.item.clone());
                     } else {
                         progress++;
                     }
@@ -76,13 +76,25 @@ public class MaterialGenerator extends SlimefunItem {
     }
 
     public final MaterialGenerator setItem(@Nonnull Material material) {
-        this.item = new ItemStack(material);
+        return setItem(material, 1);
+    }
+
+    public final MaterialGenerator setItem(@Nonnull Material material, int amount) {
+        this.item = new ItemStack(material, Math.max(1, amount));
         return this;
     }
 
     public final MaterialGenerator setRate(int rateTicks) {
         this.rate = Math.max(rateTicks, 2);
         return this;
+    }
+
+    public final int getRate() {
+        return this.rate;
+    }
+
+    public final ItemStack getOutputItem() {
+        return this.item.clone();
     }
 }
 
