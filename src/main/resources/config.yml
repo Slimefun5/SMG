@@ -1,2 +1,31 @@
 options:
   auto-update: true
+
+# Configure the generation rate (in ticks) and item output amount for each generator.
+# - rate-in-ticks: Interval between generation cycles (minimum 2 ticks). Lower value means faster generation.
+# - output-amount: Number of items produced per cycle (minimum 1 item).
+generators:
+  cobblestone:
+    rate-in-ticks: 4
+    output-amount: 1
+  stone:
+    rate-in-ticks: 8
+    output-amount: 1
+  smooth-stone:
+    rate-in-ticks: 12
+    output-amount: 1
+  gravel:
+    rate-in-ticks: 6
+    output-amount: 1
+  sand:
+    rate-in-ticks: 8
+    output-amount: 1
+  glass:
+    rate-in-ticks: 12
+    output-amount: 1
+  netherrack:
+    rate-in-ticks: 6
+    output-amount: 1
+  soul-sand:
+    rate-in-ticks: 8
+    output-amount: 1

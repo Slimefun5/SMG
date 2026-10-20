@@ -15,6 +15,8 @@ public class SimpleMaterialGenerators extends JavaPlugin implements SlimefunAddo
     public void onEnable() {
         setInstance(this);
 
+        saveDefaultConfig();
+
         SMGItemSetup.setup(this);
 
         Slimefun.getItemTranslationService().registerTranslations(this);
